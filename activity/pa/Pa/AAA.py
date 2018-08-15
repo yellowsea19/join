@@ -1,0 +1,2 @@
+class YYY:
+    print('aaa')
